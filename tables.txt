@@ -1,0 +1,4 @@
+tbl_notes
+notes_ID
+notes_topic
+notes_content
